@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Terrain
+  - Bloc
+  - rayon
+  - Key
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 265050017
+    locked: 0
+  - name: WalkableTiles
+    uniqueID: 2585226935
+    locked: 0
+  - name: Environment
+    uniqueID: 930735535
+    locked: 0
+  - name: Actors
+    uniqueID: 44585403
+    locked: 0
+  - name: Props
+    uniqueID: 616952863
+    locked: 0
+  - name: HidingTiles
+    uniqueID: 2094786099
+    locked: 0
+  - name: Water
+    uniqueID: 3300006499
+    locked: 0
+  - name: Objects
+    uniqueID: 3836783267
+    locked: 0
